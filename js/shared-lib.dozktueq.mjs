@@ -1,2 +1,0 @@
-import{t as e}from"./rolldown-runtime.hbrq4igt.mjs";function t(e,t){return{description:`Hello World this is Shehan. Go through to see what i have to offer`,favicon:`https://framerusercontent.com/assets/pmTEjtQFv0QbFC25RSGV5cfPc.png`,robots:`max-image-preview:large`,title:`Shehan Feroze`}}var n=e((()=>{}));export{t as n,n as t};
-//# sourceMappingURL=shared-lib.DOZKtuEq.mjs.map
