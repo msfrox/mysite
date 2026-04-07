@@ -1,0 +1,8 @@
+/*
+ * TwitterLogo (phosphor-icons/TwitterLogo@0.0.57)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "../js/twitterlogo.js"
+export { default } from "../js/twitterlogo.js"
