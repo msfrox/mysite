@@ -1,0 +1,8 @@
+/*
+ * DownloadSimple (phosphor-icons/DownloadSimple@0.0.57)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "../js/downloadsimple.js"
+export { default } from "../js/downloadsimple.js"
