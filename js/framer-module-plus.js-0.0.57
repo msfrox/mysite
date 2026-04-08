@@ -1,8 +1,7 @@
 /*
  * Plus (phosphor-icons/Plus@0.0.57)
  *
- * Learn More: https://www.framer.com/asset-urls
- */
+ * Learn More: 
 
 export * from "../js/plus.js"
 export { default } from "../js/plus.js"
