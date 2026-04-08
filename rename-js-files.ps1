@@ -4,7 +4,7 @@
 # HOW TO USE:
 #   1. Open PowerShell
 #   2. cd into the ROOT of your cloned mysite git repo
-#      e.g.  cd "C:\Users\msfro\Documents\GitHub\mysite"
+#      e.g.   cd "C:\Users\msfro\Documents\GitHub\mysite"
 #   3. Run:  .\rename-js-files.ps1
 #      (copy this script into that folder first if needed)
 # ============================================================
